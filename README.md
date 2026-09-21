@@ -1,5 +1,7 @@
 # Health Insurance Cost Prediction: ML Service
 
+[![CI](https://github.com/adityaduggirala/health-insurance-cost-mlops/actions/workflows/ci.yml/badge.svg)](https://github.com/adityaduggirala/health-insurance-cost-mlops/actions/workflows/ci.yml)
+
 An end-to-end ML project: train and compare models on health-insurance data, serve the best one
 through a validated REST API with **prediction intervals**, and monitor incoming data for **drift**.
 Built to go beyond a notebook: shared feature code for training and serving, tests, Docker and CI.
